@@ -2,19 +2,16 @@
 
 :heavy_check_mark: **About Me**
 
-Hi, my name is Horatio and I am interested in every and all things data. 
+Hi, my name is Horatio and I am interested in every and all things data. I have proficiency in Python but I am also currently learning JavaScript. I have a fondness for Machine Learning and more specifically Natural Language Processing. I actively pursue self-learning and growth and use every opportunity to learn and grow in the field of data. I always welcome new challenges and a fun fact is I think I'm funny. 
 
 :heavy_check_mark: **What do I do?**
 
-Perform ETL/ELT 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hlebrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hlebrob" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rawtid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rawtid" height="30" width="40" /></a>
-<a href="https://kaggle.com/rawtid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rawtid" height="30" width="40" /></a>
-</p>
+- ETL/ELT 
+- Build Data Systems and Pipelines
+- Data Modeling
+- Cloud Data Engineering
+- Data Analysis
+- Python, SQL, Bash scripting
 
 ## I have experience with the following Technologies/Languages:
 
@@ -35,6 +32,13 @@ Perform ETL/ELT
  - [Airline On-Time Statistics and Delay Causes ELT Data-Pipleine](https://github.com/Raatid-Dilly/Airline-Delay-Data)
  - [Streaming Tweets with Kafka/Spark Streams to MongoDB]()
  - [Soccer Data-Pipeline/Database from API](https://github.com/Raatid-Dilly/Soccer-Leagues-DB)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hlebrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hlebrob" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/rawtid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rawtid" height="30" width="40" /></a>
+<a href="https://kaggle.com/rawtid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rawtid" height="30" width="40" /></a>
+</p>
 
 ## Github Stats
 
