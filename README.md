@@ -15,7 +15,7 @@ Hi, my name is Horatio and I am interested in every and all things data. I have 
 
 ## I have experience with the following Technologies/Languages:
 
- - **Programming**: ``Python`` and ``Javascript``
+ - **Programming**: ``Python``, ``Javascript``
  - **Databases**: ``MongoDB``, ``SQLite``, ``PostgreSQL``, ``MySql``, ``Apache Cassandra``
  - **Devops**: ``AWS``, ``GCP``, ``Docker``, ``Bash``
  - **Version Control**: ``Git``,``Github``
