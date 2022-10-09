@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Horatio</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Hi%20👋,%20I'm%20Horatio&fontAlign=55" />
 <h3 align="center">Learning one day at a time</h3>
 
 <h3 align="left">Connect with me:</h3>
