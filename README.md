@@ -6,7 +6,7 @@ Hi, my name is Horatio and I am interested in every and all things data. I have 
 
 :heavy_check_mark: **What do I do?**
 
-- ETL/ELT 
+- ETL
 - Build Data Systems and Pipelines
 - Data Modeling
 - Cloud Data Engineering
