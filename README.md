@@ -13,7 +13,7 @@ Hi, my name is Horatio and I am interested in every and all things data. I have 
 - Data Analysis
 - Python, SQL, Bash scripting
 
-## I have experience with the following Technologies/Languages:
+## Technologies/Languages I use:
 
  - **Programming**: ``Python`` ``Javascript``
  - **Databases**: ``SQLite`` ``PostgreSQL`` ``MySql`` ``MongoDB`` ``Apache Cassandra``
