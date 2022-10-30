@@ -44,3 +44,5 @@ Hi, my name is Horatio and I am interested in every and all things data. I have 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raatid-dilly&show_icons=true&locale=en&layout=compact" alt="raatid-dilly" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raatid-dilly&label=Profile%20views&color=0e75b6&style=flat" alt="raatid-dilly" /> </p>
+
