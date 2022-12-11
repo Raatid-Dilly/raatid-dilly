@@ -30,7 +30,7 @@ Hi, my name is Horatio and I am interested in every and all things data. I have 
  - [National Highway Traffic Safety Administration ETL Data-Pipeline](https://github.com/Raatid-Dilly/NHTSA-Fatality-Data)
  - [Streaming Tweets with Kafka/Spark Streams to MongoDB](https://github.com/Raatid-Dilly/Kafka-Spark-Streaming-Tweets)
  - [Natural Language Processing of Rap Lyrics](https://github.com/Raatid-Dilly/NLP-EDA-Nas-Lyrics)
- - [Airline On-Time Statistics and Delay Causes ELT Data-Pipleine](https://github.com/Raatid-Dilly/Airline-Delay-Data)
+ - [Airline On-Time Statistics and Delay Causes ELT Data-Pipeline](https://github.com/Raatid-Dilly/Airline-Delay-Data)
  - [Soccer Data-Pipeline/Database from API](https://github.com/Raatid-Dilly/Soccer-Leagues-DB)
 
 <h3 align="left">Connect with me:</h3>
